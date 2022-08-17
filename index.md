@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Eskya Bot
 
-You can use the [editor on GitHub](https://github.com/ImEskya/EskyaBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EskyaBot (Known as Eskya) is the bot that will help you with the Discord Server
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Feature
 
-### Markdown
+WARNING! EskyaBot has so many feature that's still in development so the full release date will be set soon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```Feature
+1. Moderation
+2. Fun
+3. Music
+4. Giveaway
 ```
+You can [Invite](https://discord.com/api/oauth2/authorize?client_id=1007217350698877040&permissions=8&scope=bot)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Support
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ImEskya/EskyaBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have trouble when adding the bot, contact me at [Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### Commands
+Full commands [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
