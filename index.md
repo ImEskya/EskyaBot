@@ -12,7 +12,7 @@ WARNING! EskyaBot has so many feature that's still in development so the full re
 3. Music
 4. Giveaway
 ```
-You can [Invite](https://discord.com/api/oauth2/authorize?client_id=1007217350698877040&permissions=8&scope=bot)
+You can invite EskyaBot [Here](https://discord.com/api/oauth2/authorize?client_id=1007217350698877040&permissions=8&scope=bot)
 
 ### Support
 
